@@ -1,0 +1,7 @@
+counter = 0 
+while counter < 200
+ counter += 1 
+ puts counter
+end 
+
+
